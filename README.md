@@ -3,6 +3,8 @@ LGM Matabane's Mar's Rover Mission
 
 Intro
 ---
+This project only works on the latest version of GOOGLE CHROME.
+
 The aim of this js-coded rover mission is to attempt to use JS to create a re-enactment
 of the challenge in terms of source code applied in Javascript.
 
@@ -46,3 +48,4 @@ R : Right ;This turns the Rover Right. This represents one motion.
 
 Additional Concepts
 ---
+Still needs work but I pushed it as far as I could.
